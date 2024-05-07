@@ -11,7 +11,7 @@
 "imageSliders":["https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/1.jpg","https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/2.jpg","https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/3.jpg"]
 },
 {
-"title":"VEETVA",
+"title":"VEETVA 2",
 "mainImage":"https://stackappinfotech.com/Project/Flutter/VetevaPet.png",
 "technology":"Flutter, Firebase, Agora Video Call, Consultations, Appointment, Ring",
 "features":"Rest API Integration, GIT, Firebase, Exotel, Appointment, Facebook events, CallKit, Chat",
