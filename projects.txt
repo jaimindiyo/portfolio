@@ -1,0 +1,24 @@
+{
+"data": [
+{
+"title":"VEETVA",
+"mainImage":"https://stackappinfotech.com/Project/Flutter/VetevaPet.png",
+"technology":"Flutter, Firebase, Agora Video Call, Consultations, Appointment, Ring",
+"features":"Rest API Integration, GIT, Firebase, Exotel, Appointment, Facebook events, CallKit, Chat",
+"desc":"Veteva is a mobile application that provides access to a consultation & communication with vet to its users. Consult with India’s top vets 24/7 within 10 minutes . Receive E-Prescription past consultation. Chat with the vet within 24 hours from consultation time. It is available for download on both Android and iOS devices. This app connects with the Veteva pro application that is related to vet.",
+"androidAppLink":"https://play.google.com/store/apps/details?id=com.veteva.pet",
+"iosAppLink":"https://apps.apple.com/us/app/veteva-consult-vets-24-7/id1642855776",
+"imageSliders":["https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/1.jpg","https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/2.jpg","https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/3.jpg"]
+},
+{
+"title":"VEETVA",
+"mainImage":"https://stackappinfotech.com/Project/Flutter/VetevaPet.png",
+"technology":"Flutter, Firebase, Agora Video Call, Consultations, Appointment, Ring",
+"features":"Rest API Integration, GIT, Firebase, Exotel, Appointment, Facebook events, CallKit, Chat",
+"desc":"Veteva is a mobile application that provides access to a consultation & communication with vet to its users. Consult with India’s top vets 24/7 within 10 minutes . Receive E-Prescription past consultation. Chat with the vet within 24 hours from consultation time. It is available for download on both Android and iOS devices. This app connects with the Veteva pro application that is related to vet.",
+"androidAppLink":"https://play.google.com/store/apps/details?id=com.veteva.pet",
+"iosAppLink":"https://apps.apple.com/us/app/veteva-consult-vets-24-7/id1642855776",
+"imageSliders":["https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/1.jpg","https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/2.jpg","https://stackappinfotech.com/Project/Flutter/Screenshot/VetevaPet/3.jpg"]
+}
+]
+}
