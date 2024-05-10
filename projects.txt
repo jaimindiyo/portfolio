@@ -12,7 +12,7 @@
 },
 {
 "title":"VEETVA 2",
-"mainImage":"https://stackappinfotech.com/Project/Flutter/VetevaPet.png",
+"mainImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2vMWvx6LAcMfa6AwpWqQRYJ5HobykWKiPn9HKepfDMs5tnrg",
 "technology":"Flutter, Firebase, Agora Video Call, Consultations, Appointment, Ring",
 "features":"Rest API Integration, GIT, Firebase, Exotel, Appointment, Facebook events, CallKit, Chat",
 "desc":"Veteva is a mobile application that provides access to a consultation & communication with vet to its users. Consult with India’s top vets 24/7 within 10 minutes . Receive E-Prescription past consultation. Chat with the vet within 24 hours from consultation time. It is available for download on both Android and iOS devices. This app connects with the Veteva pro application that is related to vet.",
